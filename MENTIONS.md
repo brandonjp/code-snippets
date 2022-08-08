@@ -25,3 +25,4 @@ This document is an effort to maintain a list of website and articles which reco
 - [Charitable Donation Plugin](https://www.wpcharitable.com/documentation/3-ways-to-add-code-customizations-to-your-site/)
 - [Hostenko](https://hostenko.com/wpcafe/plugins/code-snippets-add-custom-code-in-wordpress/)
 - [Iconic](https://iconicwp.com/blog/redirect-users-woocommerce-login-registration/)
+- [MeowApps](https://meowapps.com/add-custom-php-code-wordpress/)
